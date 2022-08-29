@@ -1,0 +1,21 @@
+{
+  "name": "twodleoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "min",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "melshawa",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "twodleoo": "^1.0.0"
+  }
+}
